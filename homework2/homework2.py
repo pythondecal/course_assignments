@@ -42,3 +42,6 @@
 # 17) What is a question you have? Or what is a concept you are confused about?
 
 # 18) Tell me a fun fact!
+
+# 19) Print your favorite math expression you've learned in Python so far. Add a comment describing what it does.
+# (Hint: Use print())
