@@ -1,47 +1,48 @@
-# Make sure this file is located in:
-# python_decal_fa25/yourname/homework2/
+# File: homework2.py
 
-# Please answer the following questions as comments.
-# You may have to do some of your own research.
+# Your file path should look like:
+# python_decal_fa25/yourname/homework2/homework2.py
 
-# 1) What is the difference between Git, GitHub and GitBash?
+# Questions (Answer these in the homework2.py file as comments):
 
-# 2) What is the difference between the terminal and the command line?
+# 1) What’s the difference between Git, GitHub, and Git Bash?
 
-# 3) What is the difference between the Windows PowerShell and Git Bash?
+# 2) What’s the difference between the terminal and the command line?
 
-# 4) What is the difference between Anaconda, conda and Python?
+# 3) How does Windows PowerShell differ from Git Bash?
+
+# 4) What’s the difference between Anaconda, conda, and Python?
 
 # 5) What is VS Code? 
 
-# 6) What is a Jupyter Notebook? What is Jupyter Lab?
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
 
 # 7) What does ~/ mean?
 
-# 8) What is the difference between an absolute versus a relative path?
+# 8) What’s the difference between an absolute path and a relative path?
 
-# 9) Pretend you are in your "yourname" repository. Write the absolute and then the relative path to course_assignments/homework2.
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
 
-# 10) What command would let you move from course_assignments/homework2/ to course_assignments?
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
 
-# 11) If you called rm ./ in your current working directory, what would it do? (please don't do this)
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
 
-# 12) Explain what the following commands do:
+# 12) What do the following commands do?
 # git add
 # git commit
 # git push
 
 # 13) What's the difference between "git add ." and "git add <file>"?
 
-# 14) What does "git status" do? What does "git log -1" do? 
+# 14) What do "git status" and "git log -1" do?
 
-# 15) What is the difference between cloning a repository and pulling from a repository?
+# 15) What’s the difference between cloning a repository and pulling from it?
 
-# 16) What has been the most frustrating error or bug you've encountered in this class so far? How did you troubleshoot and resolve it?
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
 
-# 17) What is a question you have? Or what is a concept you are confused about?
+# 17) What’s a question you still have? What’s something you’re confused about?
 
 # 18) Tell me a fun fact!
 
-# 19) Print your favorite math expression you've learned in Python so far. Add a comment describing what it does.
-# (Hint: Use print())
+# 19) Print your favorite math expression you've learned in Python so far. 
+# (Hint: Use print() and add a comment explaining what it does.)
