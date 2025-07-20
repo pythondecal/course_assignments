@@ -1,6 +1,6 @@
 # File: surprise.py
 
-# Below is dictionary of lists for three different constellations. Let's perform some data analysis on them.
+# Below is dictionary of star data. Let's perform some data analysis on it.
 
 stars_data = {
     "name": [
@@ -35,8 +35,8 @@ stars_data = {
 
 # 2) Write a function that counts how many stars in the dataset belong to the "Orion" constellation.
 
-# 3) Write a function that returns the name of the brightest star in the dataset with its magnitude.
-# Hint: Magnitude is backwards, smaller values mean brighter stars.
+# 3) Write a function that returns the name and magnitude of the brightest star in the dataset.
+# Hint: Magnitude is reversed, smaller values indicate brighter stars.
 
 # 4) Write a function that returns a list of star names that are closer than 100 light-years away.
 
